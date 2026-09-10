@@ -386,7 +386,23 @@ Response:
 
 \---
 
+## Live Demo
 
+### Docker Deployment
+
+![Docker Running](docs/docker-running.png)
+
+### Health Check
+
+![Health Check](docs/health-check.png)
+
+### Prompt Injection Detection
+
+![Prompt Injection Blocked](docs/prompt-injection-blocked.png)
+
+### Base64 Obfuscated Attack Detection
+
+![Base64 Attack Blocked](docs/base64-attack-blocked.png)
 
 \# Obfuscated Attack Example
 
