@@ -1,4 +1,3 @@
-الصق هذا كامل داخل `README.md`:
 
 
 
@@ -390,19 +389,19 @@ Response:
 
 ### Docker Deployment
 
-![Docker Running](docs/docker-running.png)
+![Docker Running](docs/docker_running.png)
 
 ### Health Check
 
-![Health Check](docs/health-check.png)
+![Health Check](docs/health_check.png)
 
 ### Prompt Injection Detection
 
-![Prompt Injection Blocked](docs/prompt-injection-blocked.png)
+![Prompt Injection Blocked](docs/prompt_injection_blocked.png)
 
 ### Base64 Obfuscated Attack Detection
 
-![Base64 Attack Blocked](docs/base64-attack-blocked.png)
+![Base64 Attack Blocked](docs/base64_attack_blocked.png)
 
 \# Obfuscated Attack Example
 
