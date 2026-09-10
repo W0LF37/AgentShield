@@ -1,0 +1,4 @@
+results/
+*.exe
+__pycache__/
+*.pyc
